@@ -1,0 +1,23 @@
+ENEMIES DEFEATED REPORT
+Generated: 2026-10-29 02:45:20
+
++---------+-------------------------+--------------+-------+-------------+
+| ID      | Enemy                   | Difficulty   | Times | Defeated By |
++=========+=========================+==============+=======+=============+
+| ENM-001 | Gravefang Rat           | Weak         |     1 | player      |
+| ENM-002 | Hollowbone Goblin       | Weak         |     1 | player      |
+| ENM-003 | Ashen Ghoul             | Weak         |     1 | player      |
+| ENM-004 | Ironjaw Reaver          | Intermediate |     1 | player      |
+| ENM-005 | Boneguard Executioner   | Intermediate |     1 | player      |
+| ENM-006 | Hellchain Marauder      | Intermediate |     1 | player      |
+| ENM-007 | Dreadfang Berserker     | Strong       |     1 | player      |
+| ENM-008 | Abyssal Death Knight    | Strong       |     1 | player      |
+| ENM-009 | Soulreaper Wraith       | Strong       |     0 | none        |
+| ENM-010 | Vharok, the World Eater | Boss         |     0 | none        |
++---------+-------------------------+--------------+-------+-------------+
+
++----------+------------------+
+| Username | Enemies Defeated |
++==========+==================+
+| player   |             8/10 |
++----------+------------------+

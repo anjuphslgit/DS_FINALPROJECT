@@ -1,0 +1,5 @@
+# DUNGEON CONQUEST PLAYER ACCOUNTS
+# username | player_id | password  | role   | hp | max_hp | atk | gold | score | wins | losses | status   | defeated_enemy_ids                                              | completed_levels  | inventory           | encounter_queue | wounded_enemy_hp
+  admin    | ADM-001   | admin123  | Admin  | 0  | 0      | 0   | 0    | 0     | 0    | 0      | Active   |                                                                 |                   |                     |                 |
+  player   | PLY-001   | player123 | Player | 70 | 140    | 24  | 19   | 920   | 8    | 2      | Defeated | ENM-001,ENM-002,ENM-003,ENM-004,ENM-005,ENM-006,ENM-007,ENM-008 | Weak,Intermediate | ITM-005:2,ITM-001:2 |                 | ENM-009:149
+  anj      | PLY-002   | anj1117   | Player | 56 | 120    | 19  | 130  | 180   | 3    | 0      | Active   | ENM-001,ENM-003,ENM-002                                         | Weak              | ITM-001:2           |                 |

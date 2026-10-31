@@ -19,7 +19,6 @@ GAME_RECORD_FILE = "8dungeon_game_records.txt"
 BATTLE_LOG_FILE = "9battle_activity_log.txt"
 REPORT_FOLDER = "reports"
 
-
 # ---------------------------------------------------------------
 # GAME BALANCE
 # These values were tuned with a simulation so that simply spamming

@@ -1,11 +1,11 @@
 BATTLE WINS AND LOSSES REPORT
-Generated: 2026-10-31 16:59:23
+Generated: 2026-10-31 18:55:04
 
 +----------+------+--------+---------+----------+
 | Username | Wins | Losses | Battles | Win Rate |
 +==========+======+========+=========+==========+
-| player   |    8 |      2 |      10 |      80% |
-| anj      |    0 |      0 |       0 |        - |
+| player   |    9 |      4 |      13 |      69% |
+| anj      |   10 |      0 |      10 |     100% |
 +----------+------+--------+---------+----------+
 
-Total wins: 8 | Total losses: 2
+Total wins: 19 | Total losses: 4
